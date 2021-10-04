@@ -44,13 +44,13 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 python code
 
-```{python}
+```python
 1 s = "Python synyax highlighting"
 2 print s
 ```
 
 javascript code
-```{javascript}
+```js
 1 var s = "JavaScript syntax highlighting";
 2 alert(s)
 ```
