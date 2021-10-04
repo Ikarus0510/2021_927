@@ -1,6 +1,12 @@
 # 2021_927
 ## C108118151 林品臻
-### 組員：C108118108 林璟彤
+### 組員：
+### C108118108 林璟彤
+### C108113135 高旗宏
+### C108118132 王乙澂
+### C108118135 莊絜涵
+### C108133142 高翊馨
+
 #### 題目：
 [YT](https://www.youtube.com.tw)
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/539900619.png "高科大")
@@ -20,14 +26,14 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 1.First ordered list item<br>
 2.Another item<br>
-..*Unorodered sub-list.<br>
+  ..*Unorodered sub-list.<br>
 3.Actual numbers don't matter,just that it's a number<br>
-..1. Ordered sub-list<br>
-...2. 2nd<br>
+  ..1. Ordered sub-list<br>
+  ...2. 2nd<br>
 4.And another item.<br>
-...*note 1<br>
-...*note 2<br>
-***note 3<br>
+  ...*note 1<br>
+  ...*note 2<br>
+  ***note 3<br>
 
 ***
 
