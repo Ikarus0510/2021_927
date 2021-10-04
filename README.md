@@ -6,28 +6,35 @@
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/539900619.png "高科大")
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ "Everything Is AWESOME")
 
+***
+
 Emphasis, aka <i>italics</i>, with <i>asterisks</i> or <i>underscores</i>.
 
-Strong emphasis, aka bold, with <b>asterisks</b> or <b>underscores</b>.
+Strong emphasis, aka bold, with **asterisks** or <b>underscores</b>.
 
 Combined emphasis with <b>asterisks and underscores</b>.
 
 Strikethrough uses two tildes. ~~Scratch this~~.
 
-1. > First ordered list item
-2. > Another item
-..*Unorodered sub-list.
-3. > Actual numbers don't matter,just that it's a number
-..1. Ordered sub-list
-...2. 2nd
-4. > And another item.
-...*note 1
-...*note 2
-***note 3
+***
+
+1.First ordered list item<br>
+2.Another item<br>
+..*Unorodered sub-list.<br>
+3.Actual numbers don't matter,just that it's a number<br>
+..1. Ordered sub-list<br>
+...2. 2nd<br>
+4.And another item.<br>
+...*note 1<br>
+...*note 2<br>
+***note 3<br>
+
+***
 
 - [ ] todo list
 - [ ] 2nd things
 
+***
 
 python code
 
@@ -41,6 +48,8 @@ javascript code
 1 var s = "JavaScript syntax highlighting";
 2 alert(s)
 ```
+
+***
 
 Colons can be used to align columns.
 
