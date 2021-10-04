@@ -24,16 +24,16 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 ***
 
-1.First ordered list item<br>
-2.Another item<br>
-  ..*Unorodered sub-list.<br>
-3.Actual numbers don't matter,just that it's a number<br>
-  ..1. Ordered sub-list<br>
-  ...2. 2nd<br>
-4.And another item.<br>
-  ...*note 1<br>
-  ...*note 2<br>
-  ***note 3<br>
+1.&nbsp;First ordered list item<br>
+2.&nbsp;Another item<br>
+&emsp;..*Unorodered sub-list.<br>
+3.&nbsp;Actual numbers don't matter,just that it's a number<br>
+&emsp;..1. Ordered sub-list<br>
+&emsp;...2. 2nd<br>
+4.&nbsp;And another item.<br>
+&emsp;...*note 1<br>
+&emsp;...*note 2<br>
+&emsp;***note 3<br>
 
 ***
 
@@ -44,13 +44,13 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 
 python code
 
-```
+```{python}
 1 s = "Python synyax highlighting"
 2 print s
 ```
 
 javascript code
-```
+```{javascript}
 1 var s = "JavaScript syntax highlighting";
 2 alert(s)
 ```
